@@ -11,6 +11,8 @@ plugins {
     id 'com.github.ben-manes.versions' version '0.33.0'
     id "pl.droidsonroids.jacoco.testkit" version "1.0.7"
     id 'ru.vyarus.mkdocs' version '2.0.1'
+    id 'org.sonarqube' version '8.5.1'
+
 }
 
 sourceCompatibility = 1.8
