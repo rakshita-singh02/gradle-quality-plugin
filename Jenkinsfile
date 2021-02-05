@@ -34,7 +34,8 @@ spec:
 								
 						 
 								./gradlew --no-daemon clean
-								./gradlew build
+								
+								./gradlew sonarqube
 								
 								
 								
