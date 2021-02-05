@@ -32,11 +32,11 @@ spec:
 								chmod 777 *
 								
 								
-								 chmod 777 *
+								 
 							
 							
-								gradle init --type java-library --test-framework junit-jupiter
-								gradle build
+								./gradlew init --type java-library --test-framework junit-jupiter
+								./gradlew build
 								
 								
 								
