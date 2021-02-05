@@ -33,9 +33,9 @@ spec:
 								
 								
 						 
-								./gradlew --no-daemon clean
+								./gradlew clean
 								
-								./gradlew src
+								./gradlew assemble
 								
 								
 								
