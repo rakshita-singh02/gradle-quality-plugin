@@ -35,7 +35,7 @@ spec:
 						 
 								./gradlew --no-daemon clean
 								
-								./gradlew gradle-quality-plugin
+								./gradlew src
 								
 								
 								
