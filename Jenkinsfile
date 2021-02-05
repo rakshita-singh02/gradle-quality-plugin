@@ -36,6 +36,7 @@ spec:
 								./gradlew clean
 								./gradlew build
 								./gradlew assemble
+								 ./gradlew jar
 								
 								
 								
