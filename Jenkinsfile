@@ -40,9 +40,9 @@ spec:
 								
 								*/
 								 chmod 777 *
-								 gradle init --type java-library --test-framework junit-jupiter
-								 gradle build
-								 gradle test
+								 ./gradlew init --type java-library --test-framework junit-jupiter
+								 ./gradlew build
+								 ./gradlew test
 								
 								
 								
