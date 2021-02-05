@@ -39,7 +39,7 @@ spec:
 								 ./gradlew jar
 								
 								*/
-								 
+								 chmod 777 *
 								 gradle init --type java-library --test-framework junit-jupiter
 								 gradle build
 								 gradle test
