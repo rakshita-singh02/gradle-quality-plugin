@@ -31,18 +31,9 @@ spec:
 								sh '''
 								chmod 777 *
 								
-								/*
-						 
-								./gradlew clean
-								./gradlew build
-								./gradlew assemble
-								 ./gradlew jar
 								
-								*/
 								 chmod 777 *
-							/*	
-							./gradlew init --type java-library --test-framework junit-jupiter 
-							*/
+							
 							
 								 gradle build
 								 gradle test
