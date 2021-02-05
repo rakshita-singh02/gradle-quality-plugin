@@ -35,6 +35,7 @@ spec:
 						 
 								./gradlew --no-daemon clean
 								./gradlew --no-daemon jar
+								./build.gradle
 								
 								
 							
