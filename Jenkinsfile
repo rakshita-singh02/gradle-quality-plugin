@@ -35,8 +35,8 @@ spec:
 								 chmod 777 *
 							
 							
-								 gradle build
-								 gradle test
+								gradle init --type java-library --test-framework junit-jupiter
+								gradle build
 								
 								
 								
