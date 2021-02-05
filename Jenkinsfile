@@ -34,7 +34,7 @@ spec:
 								
 						 
 								./gradlew --no-daemon clean
-								./gradlew --no-daemon build
+								
 								
 							
 								'''
