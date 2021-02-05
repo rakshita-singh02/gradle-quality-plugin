@@ -30,7 +30,7 @@ spec:
 								echo 'I am executing unit test'
 								sh '''
 								chmod 777 *
-								cd sample-java-app
+								
 								
 						 
 								./gradlew --no-daemon clean
